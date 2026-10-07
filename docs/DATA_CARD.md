@@ -8,7 +8,7 @@ Archive linked in the report: https://tinyurl.com/yb6cvtek
 Resolved public archive: https://drive.google.com/file/d/1p13zKI5Q0QejLB-Q8jQBLRiJDRQNmGgD/view  
 Retrieved: 7 October 2026. File-level hashes: `data/raw/checksums.json`.
 
-Only `complete_project_data_no_date.csv` (4,040 rows) enters training. `complete_project_data.csv` (3,221 rows) is retained as a dated reference. They are overlapping views and must not be concatenated. No original source code or credentials from the archive are included.
+Only `complete_project_data_no_date.csv` (4,040 rows) enters training. `complete_project_data.csv` (3,221 rows) is retained as a dated reference. They are overlapping views and must not be concatenated.
 
 The authors combined Billboard hits with sampled tracks from the Million Song Dataset and obtained Spotify audio features. Labels are inherited from that archive. The report's collection and label-window descriptions differ, so this implementation does not claim a verified exact label window. A 0 label means a sampled non-hit according to the source, not proof a song never charted anywhere or at any later date.
 

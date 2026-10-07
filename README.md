@@ -49,7 +49,7 @@ python -m pytest -q
 python -m src.predict --input data/demo_tracks.csv --output predictions.csv
 ```
 
-Training regenerates the model, metrics, predictions, figures, and processed data. Runtime depends on your computer. A single fixed seed (21) and single-worker estimators support repeatability. Small numerical differences across platforms are possible. If you deliberately alter the experiment, refresh the notebook and revise the submitted report and slides to match the new results.
+Training regenerates the model, metrics, predictions, figures, and processed data. A single fixed seed (21) and single-worker estimators support repeatability. Small numerical differences across platforms are possible. The notebook, report and slides describe the included experiment results.
 
 Open `notebooks/HitPredict_Analysis.ipynb` in VS Code, Jupyter, or another notebook viewer. It includes executed outputs. The notebook reads the measured results and also supports optional retraining via its `RUN_TRAINING` flag. It never silently retrains on opening.
 
@@ -115,17 +115,10 @@ The row-split diagnostic shares 392 artists across its training/test sets and sc
 | `notebooks/HitPredict_Analysis.ipynb` | Executed explanatory analysis |
 | `deliverables/HitPredict_Report.pdf` | Required two-page write-up |
 | `deliverables/HitPredict_Presentation.pptx` | Editable presentation with speaker notes |
-| `docs/DEMO_AND_VIVA.md` | Demo sequence and panel preparation |
 | `docs/DATA_CARD.md` | Source attribution and label limitations |
-| `docs/CONTRIBUTIONS.md` | Actual contribution record for the team to complete |
-| `docs/SUBMISSION_CHECKLIST.md` | Remaining academic submission steps |
 
 ## Source credit
 
 Elena Georgieva, Marcella Suta, and Nicholas Burton, [HitPredict, Stanford CS229 (2018)](https://cs229.stanford.edu/proj2018/report/16.pdf). Data is from the [public archive linked by that report](https://drive.google.com/file/d/1p13zKI5Q0QejLB-Q8jQBLRiJDRQNmGgD/view), retrieved 7 October 2026. We use its two CSVs and provide a new implementation. We do not include or execute the original authors' code, and their published performance is not represented as our measured result. Source attribution is retained; no new license is asserted over their dataset.
 
 Method references: [group cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html), [preventing leakage](https://scikit-learn.org/stable/common_pitfalls.html), and [permutation importance](https://scikit-learn.org/stable/modules/permutation_importance.html).
-
-## Repository and submission
-
-Keep this repository private and invite faculty/TAs through GitHub repository settings after their usernames are confirmed. Submit the PDF and slides through the faculty's required channel by **10 October 2026, 11:59 PM**. The assignment heading says “One-Page Write-up” but the explicit requirement says a two-page summary; this package follows the two-page requirement. Review dates are 5-9 October 2026.
