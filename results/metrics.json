@@ -1,0 +1,231 @@
+{
+  "created_utc": "2026-10-07T04:26:18.724103+00:00",
+  "seed": 21,
+  "dataset": {
+    "raw_rows": 4040,
+    "clean_rows": 4019,
+    "duplicate_songs_removed": 21,
+    "conflicting_label_rows_removed": 0,
+    "missing_audio_cells": 0,
+    "zero_tempo_rows": 3,
+    "artists": 2181,
+    "groups": 2181,
+    "class_counts": {
+      "0": 2424,
+      "1": 1595
+    }
+  },
+  "features": [
+    "Danceability",
+    "Energy",
+    "Loudness",
+    "Speechiness",
+    "Acousticness",
+    "Instrumentalness",
+    "Liveness",
+    "Valence",
+    "Tempo"
+  ],
+  "selected_model": "Random forest depth=16",
+  "threshold": 0.2899999999999999,
+  "selection": "Highest mean 3-fold artist/audio-group CV ROC-AUC on training set",
+  "threshold_selection": "Maximum validation F1 over 0.10 through 0.90, step 0.01",
+  "splits": {
+    "train": {
+      "rows": 2554,
+      "hits": 1011,
+      "groups": 1395
+    },
+    "validation": {
+      "rows": 641,
+      "hits": 268,
+      "groups": 349
+    },
+    "test": {
+      "rows": 824,
+      "hits": 316,
+      "groups": 437
+    }
+  },
+  "train": {
+    "accuracy": 0.7967893500391543,
+    "balanced_accuracy": 0.8311390645863743,
+    "precision": 0.6616294349540078,
+    "recall": 0.9960435212660732,
+    "f1": 0.7951046190288196,
+    "roc_auc": 0.9822173204279817,
+    "average_precision": 0.976507082043408,
+    "brier_score": 0.0887968468407265,
+    "confusion_matrix": [
+      [
+        1028,
+        515
+      ],
+      [
+        4,
+        1007
+      ]
+    ]
+  },
+  "validation": {
+    "accuracy": 0.6864274570982839,
+    "balanced_accuracy": 0.7195340322516106,
+    "precision": 0.5784543325526932,
+    "recall": 0.9216417910447762,
+    "f1": 0.7107913669064748,
+    "roc_auc": 0.7827317834420391,
+    "average_precision": 0.677838480641176,
+    "brier_score": 0.1857839370979337,
+    "confusion_matrix": [
+      [
+        193,
+        180
+      ],
+      [
+        21,
+        247
+      ]
+    ]
+  },
+  "test": {
+    "accuracy": 0.7087378640776699,
+    "balanced_accuracy": 0.7452407056712848,
+    "precision": 0.5769230769230769,
+    "recall": 0.9018987341772152,
+    "f1": 0.7037037037037037,
+    "roc_auc": 0.8135901524967606,
+    "average_precision": 0.6808927785665156,
+    "brier_score": 0.1700390544174431,
+    "confusion_matrix": [
+      [
+        299,
+        209
+      ],
+      [
+        31,
+        285
+      ]
+    ]
+  },
+  "test_at_0_5": {
+    "accuracy": 0.7475728155339806,
+    "balanced_accuracy": 0.7271005681251869,
+    "precision": 0.6824324324324325,
+    "recall": 0.6392405063291139,
+    "f1": 0.6601307189542484,
+    "roc_auc": 0.8135901524967606,
+    "average_precision": 0.6808927785665156,
+    "brier_score": 0.1700390544174431,
+    "confusion_matrix": [
+      [
+        414,
+        94
+      ],
+      [
+        114,
+        202
+      ]
+    ]
+  },
+  "baseline_test": {
+    "accuracy": 0.616504854368932,
+    "balanced_accuracy": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "average_precision": 0.38349514563106796,
+    "brier_score": 0.2365792526276607,
+    "confusion_matrix": [
+      [
+        508,
+        0
+      ],
+      [
+        316,
+        0
+      ]
+    ]
+  },
+  "test_cluster_bootstrap_95_ci": {
+    "roc_auc": [
+      0.7731404822579467,
+      0.8478347611500623
+    ],
+    "f1": [
+      0.6542006667330083,
+      0.7483570419841713
+    ],
+    "accuracy": [
+      0.6658404565920922,
+      0.7491046998386355
+    ]
+  },
+  "random_split_diagnostic": {
+    "metrics_at_0_5": {
+      "accuracy": 0.7139303482587065,
+      "balanced_accuracy": 0.7006560449859418,
+      "precision": 0.6403785488958991,
+      "recall": 0.6363636363636364,
+      "f1": 0.6383647798742138,
+      "roc_auc": 0.7889474194486636,
+      "average_precision": 0.6848947589167413,
+      "brier_score": 0.1817894554751862,
+      "confusion_matrix": [
+        [
+          371,
+          114
+        ],
+        [
+          116,
+          203
+        ]
+      ]
+    },
+    "overlapping_artists": 392,
+    "train_rows": 3215,
+    "test_rows": 804,
+    "note": "Secondary diagnostic with more training data; not a controlled causal comparison or selection criterion."
+  },
+  "versions": {
+    "python": "3.12.6",
+    "scikit_learn": "1.9.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6"
+  },
+  "raw_sha256": "5a98b89a728a9ed2b43ae8742fad7b2c4f57666db48e6c087e75f482fafe37f3",
+  "warnings": [
+    {
+      "model": "RBF SVM C=1",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=1",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=1",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=1",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=10",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=10",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=10",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    },
+    {
+      "model": "RBF SVM C=10",
+      "message": "The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`"
+    }
+  ]
+}

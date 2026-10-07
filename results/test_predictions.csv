@@ -1,0 +1,825 @@
+row_id,Artist,Track,Label,group,score,prediction,correct
+1,debbie davies,little sister,0,1,0.6339370785284294,1,False
+12,a different breed of killer,the cleansing apparatus,0,12,0.1167498960104223,0,True
+13,the presets,truth and lies,0,13,0.0783001089001089,0,True
+19,shane minor,slave to the habit,1,19,0.7465565701191833,1,True
+25,wet wet wet,hear me now,0,25,0.582318850700209,1,False
+37,beenie man,king of the dancehall,1,37,0.6425391594322654,1,True
+41,james carter,strange fruit,0,41,0.3314980284421462,1,False
+42,epmd,crossover,1,42,0.6747412569411997,1,True
+44,aretha franklin,a rose is still a rose,1,44,0.5649977108489025,1,True
+46,mastodon,shadows that move,0,46,0.03348044308632544,0,True
+54,brooks & dunn,the long goodbye,1,54,0.7204366831727648,1,True
+60,belle and sebastian,i could be dreaming,0,60,0.3119540180202258,1,False
+65,paris hilton,stars are blind,1,65,0.7926113516194409,1,True
+68,pascal sangla,une petite pause,0,68,0.11667501251758214,0,True
+76,poncho sanchez,ju ju,0,76,0.02275335565335565,0,True
+78,cobra killer,kick jump - part jump,0,78,0.02592995044171515,0,True
+83,dead prez,be healthy,0,83,0.3707161863685258,1,False
+87,metallica,enter sandman,1,87,0.5413899525401918,1,True
+91,gene chandler,festival of love,0,91,0.1078485380632439,0,True
+96,luscious jackson,naked eye,1,96,0.3341288616612145,1,True
+102,epmd,for my people,0,42,0.48026759986214157,1,False
+107,mary j. blige,take me as i am,1,107,0.739098838153061,1,True
+113,vangelis,procession,0,113,0.1538697592688641,0,True
+114,les malpolis,les psys,0,114,0.22654776446611746,0,True
+120,andy & lucas,hasta los huesos,0,120,0.10294602782838075,0,True
+123,shakira,donde estas corazon,0,123,0.7200169668745786,1,False
+132,jefferson starship,let me fly,0,132,0.3055395089376366,1,False
+133,bill perry,man  on the side,0,133,0.08798459873459874,0,True
+141,remy shand,the second one,0,141,0.471891016654458,1,False
+145,eyes set to kill,play the part,0,145,0.24942554439025033,0,True
+148,flora purim,latinas,0,148,0.001,0,True
+152,heavy d & the boyz,black coffee,1,152,0.5167883970428871,1,True
+153,bedrock,emerald,0,153,0.09490195348167482,0,True
+159,5th ward boyz,studio gangster,0,159,0.34832600852394097,1,False
+161,ne-yo,sexy love,1,161,0.530737350919037,1,True
+162,connie smith,if i talk to him,0,162,0.1378759233798634,0,True
+171,brown boy,superman,1,171,0.5242638915584736,1,True
+173,the presets,if i know you,0,13,0.8562798646152798,1,False
+176,blue october,blue skies,0,176,0.44039834422034835,1,False
+179,onerepublic,secrets,1,179,0.6052763810132863,1,True
+181,coldplay,one i love,0,181,0.044313351213351226,0,True
+199,inxs,not enough time,1,199,0.42341786291185396,1,True
+212,mark wills,back at one,1,212,0.8715740070372676,1,True
+222,foo fighters,if ever,0,222,0.11931580184521356,0,True
+224,martina mcbride,whatever you say,1,224,0.5536240062302846,1,True
+228,belle and sebastian,like dylan in the movies,0,60,0.46496878095496913,1,False
+235,foo fighters,still,0,222,0.07020414585414585,0,True
+237,liars,leather prowler,0,237,0.0287885447885448,0,True
+240,lionel richie,i call it love,1,240,0.59138062088474,1,True
+254,michael jackson,blood on the dance floor,1,254,0.5618163874867524,1,True
+265,inxs,beautiful girl,1,199,0.13081245225362875,0,False
+269,r.l. burnside,rollin and tumblin,0,269,0.09540474688709982,0,True
+271,shaquille oneal,biological didnt bother,1,271,0.5408590419232855,1,True
+273,darden smith,mill creek,0,273,0.10484220779220778,0,True
+277,nick jonas & the administration,state of emergency,0,277,0.7429030563992791,1,False
+285,firehouse,rock on the radio,0,285,0.31816079248894563,1,False
+289,george lopez,kids now,0,289,0.12194151665328126,0,True
+293,outkast,elevators (me & you),1,293,0.46133418520232755,1,True
+295,eyehategod,left to starve,0,295,0.01688888888888889,0,True
+296,astarte,voyage to eternal life,0,296,0.017058957708957705,0,True
+298,celine dion and peabo bryson,beauty and the beast,1,298,0.5272611248744377,1,True
+304,bryan ferry,ja nun hons pris,0,304,0.019377577977577973,0,True
+306,2pac,i wonder if heaven got a ghetto,1,306,0.7647749980795162,1,True
+312,life in your way,when rules change,0,312,0.13646496778075726,0,True
+313,ginuwine,so anxious,1,313,0.3759239815961905,1,True
+314,inxs,disappear,1,199,0.730197276979434,1,True
+315,wet wet wet,goodnight girl,0,25,0.28017419443301805,0,True
+316,rajery,mahafinaritra,0,316,0.42325959111306904,1,False
+319,foo fighters,wheels,1,222,0.6922173116154917,1,True
+321,leona lewis,happy,1,321,0.6207594282623696,1,True
+328,bounty killer,coppershot,0,328,0.4688223971333789,1,False
+331,converge,dark horse,0,331,0.04504018530489119,0,True
+334,shaquille oneal,im outstanding,1,271,0.40468024549839565,1,True
+342,stress assassin,eu a4,0,342,0.007691908091908091,0,True
+353,vangelis,preparation,0,113,0.052532603997309885,0,True
+356,mary j. blige,all that i can say,1,107,0.527167518123699,1,True
+357,dangelo,brown sugar,1,357,0.24749973980268108,0,False
+364,sneaky sound system,lost in the future,0,364,0.7073208863301572,1,False
+371,blackstreet,tonights the night,1,371,0.6197491161746649,1,True
+376,george lopez,church hangover,0,289,0.09393225597931477,0,True
+388,swallow the sun,doomed to walk the earth,0,388,0.0682325341325341,0,True
+392,darius rucker,dont think i dont think about it,1,392,0.7603217169101509,1,True
+401,ll cool j,around the way girl,1,401,0.3791746932805757,1,True
+402,quad city djs,"space jam (from space jam"")""",1,402,0.4226144024968318,1,True
+403,patrick lamb,i remember,0,403,0.3745587826392676,1,False
+404,finger eleven,paralyzer,1,404,0.5238510293370671,1,True
+406,wade hayes,the day that she left tulsa (in a chevy),1,406,0.5199844529995706,1,True
+407,soundgarden,slaves & bulldozers,0,407,0.35846821322196515,1,False
+442,bad boys blue,save your love,1,442,0.3078632676380576,1,True
+445,mario vazquez,gallery,1,445,0.6481004476879956,1,True
+447,leona lewis,bleeding love,1,321,0.7955402303673105,1,True
+466,goo goo dolls,big machine,1,466,0.41500456571292477,1,True
+467,orianthi,according to you,1,467,0.6710043973225663,1,True
+471,big & rich,save a horse (ride a cowboy),1,471,0.6079191791763912,1,True
+480,themselves,oversleeping,0,480,0.44304874656110177,1,False
+484,dimmu borgir,sympozium,0,484,0.020705472305472306,0,True
+489,dead prez,assassination,0,83,0.5285044136150018,1,False
+491,lionel richie,do it to me,1,240,0.6146546527532728,1,True
+494,the black crowes,thorn in my pride,1,494,0.556086214765174,1,True
+495,paul geremia,tootie blues,0,495,0.03228662448662449,0,True
+496,epmd,jane 5,0,42,0.44721151019574695,1,False
+500,phajja,"so long (well, well, well)",1,500,0.5753234183864898,1,True
+501,vitamin c,the itch,1,501,0.47490492252845196,1,True
+505,ll cool j,phenomenon,1,401,0.6152692807293467,1,True
+510,one block radius,all on our own,0,510,0.651034293599286,1,False
+513,britney spears,circus,1,513,0.7961743199370087,1,True
+514,caspian,the dropsonde,0,514,0.013609612609612609,0,True
+531,pearl jam,you are,0,531,0.15863499702911468,0,True
+535,alana davis,32 flavors,1,535,0.5196870845383281,1,True
+542,2pac,i get around,1,306,0.6248684403874808,1,True
+555,mastodon,deep sea creature,0,46,0.036184493284493295,0,True
+561,vangelis,twilight,0,113,0.0022,0,True
+563,snow patrol,shut your eyes,0,563,0.7250819509061074,1,False
+569,bow wow wow,c30 c60 c90 go,0,569,0.38825615511079914,1,False
+571,creedence clearwater revisited,proud mary,0,571,0.4277711994504949,1,False
+574,simon & garfunkel,citizen of the planet,0,574,0.21347496893830498,0,True
+580,themselves,directions to my special place,0,480,0.17403044562640183,0,True
+587,blind boy fuller,precious lord,0,587,0.0023666666666666662,0,True
+589,coldplay,a rush of blood to the head (live in sydney),0,181,0.2727694694194695,0,True
+591,ten madison,elementro,0,591,0.12022529482529483,0,True
+607,set your goals,the fallen...,0,607,0.10527066267066262,0,True
+609,taint,hex breaker,0,609,0.18582952635599695,0,True
+614,eastmountainsouth,hard times,0,614,0.7366521726641556,1,False
+620,shades,serenade,1,620,0.12086795622677973,0,False
+621,adam ant,mohair locker room pin-up boys,0,621,0.35264339853473,1,False
+623,whitney houston,all the man that i need,1,623,0.6519907937077654,1,True
+625,tha liks,40 oz quartet part i,0,625,0.20762400054888952,0,True
+626,michael gettel,river run,0,626,0.017299511599511597,0,True
+628,jesse malin,wendy,0,628,0.1815365096341567,0,True
+633,cross country,tastes so good to me,0,633,0.37416787707275473,1,False
+635,the irish tenors,the croppy boy,0,635,0.07268453703159584,0,True
+641,behemoth,here and beyond,0,641,0.1087928966458378,0,True
+642,big & rich,lost in this moment,1,471,0.5284988670895054,1,True
+643,flora purim,tomara (i wish),0,148,0.06551125541125542,0,True
+644,leona lewis,i will be,1,321,0.7953212330208668,1,True
+645,mark wills,how bad do you want it,0,212,0.8112050946169712,1,False
+649,max-a-million,take your time (do it right),1,649,0.43006112618250014,1,True
+650,jinny,keep warm,1,650,0.458053056907267,1,True
+651,sade,kiss of life,1,651,0.2601165778665779,0,False
+653,coldplay,talk,1,181,0.3842123729962094,1,True
+659,sandy posey,when will i be loved,0,659,0.4095620179646287,1,False
+664,helmet,your head,0,664,0.08372758352758351,0,True
+673,lionel richie,in my dreams,0,240,0.24491034715583812,0,True
+678,destinys child,bug a boo,1,678,0.6943795755118358,1,True
+682,metallica,cyanide,1,87,0.06226331609566903,0,False
+683,britney spears,someday (i will understand),0,513,0.6265085130771412,1,False
+699,thrice,the earth will shake,0,699,0.14957930402930403,0,True
+700,lady gaga,paparazzi,1,700,0.8915721772073217,1,True
+706,luke vibert,gwithian,0,706,0.07632807911043203,0,True
+710,scott matthews,underlying lies,0,710,0.2482790063729987,0,True
+712,behemoth,no sympathy for fools,0,641,0.13563317401552694,0,True
+719,lil wayne,3 peat,1,719,0.42494560338095255,1,True
+726,devo,be stiff (live),0,726,0.09746118717883422,0,True
+727,v v brown,leave!,0,727,0.5126778705761794,1,False
+754,lady gaga,poker face,0,700,0.7229886978963733,1,False
+765,george lopez,only for the young,0,289,0.08859005275769981,0,True
+768,snow patrol,spitting games,0,563,0.2711573737236276,0,True
+776,color me badd,time and chance,1,776,0.7585199118689947,1,True
+777,francis dunnery,the ava song,0,777,0.44538642573634996,1,False
+785,yaki-da,i saw you dancing,1,784,0.5413368540552548,1,True
+787,agnostic front,no one hears you,0,786,0.1149085229527954,0,True
+790,mu330,cursed again,0,789,0.08027501273236567,0,True
+791,sunscreem,perfect motion,0,790,0.12482738029943909,0,True
+794,ann lee,so deep,0,793,0.6463755147619756,1,False
+798,john mayall,the witching hour,0,797,0.6400809835176147,1,False
+800,bersuit vergarabat,se viene,0,799,0.6776245325799224,1,False
+802,naughty by nature,swing swang,0,801,0.6971414366276424,1,False
+807,rise against,1000 good intentions,0,806,0.18897960519013152,0,True
+810,love jones,i like young girls,0,809,0.5701388515652597,1,False
+811,daft punk,da funk,0,810,0.24394736374736373,0,True
+812,pressha,splackavellie,1,811,0.6284680256597194,1,True
+814,the ting tings,thats not my name,1,813,0.46835154833897225,1,True
+823,ll cool j,mama said knock you out,1,401,0.20471656807245034,0,False
+825,snow patrol,chocolate,0,563,0.5829624724983299,1,False
+832,sierra maestra,abandonada / blancas azucenas,0,831,0.3010306336659361,1,False
+833,naughty by nature,craziest,1,801,0.5074235877661145,1,True
+841,clay davidson,unconditional,1,840,0.8232276962111651,1,True
+844,n2deep,toss-up,1,843,0.6935288322890906,1,True
+852,george lopez,kids in the store,0,289,0.12936922619863792,0,True
+853,fruit de la passion,tic tic tac,1,852,0.4525338137553824,1,True
+858,michael jackson,history,0,254,0.32245625719920396,1,False
+860,prince,the greatest romance ever sold,1,859,0.5608503700304305,1,True
+864,b.g. the prince of rap,this beat is hot,1,863,0.6420199111684574,1,True
+866,dakota moon,a promise i make,1,865,0.7037235185403116,1,True
+880,snowgoons,planetary takeover,0,879,0.4078708876218316,1,False
+882,darius rucker,this,1,392,0.8075154396620188,1,True
+885,thrice,betrayal is a symptom,0,699,0.13423733110688893,0,True
+894,kid cudi,day n nite,1,893,0.4465538852705487,1,True
+897,wynonna,when love starts talkin,1,896,0.47898809092943667,1,True
+899,fyah blaze,lion paw,0,898,0.6618928770876298,1,False
+901,photo atlas,red orange yellow,0,900,0.104690339072692,0,True
+907,eddie turner,resurrection,0,906,0.11255232381997085,0,True
+911,josh groban,february song [live],0,910,0.35339205411032043,1,False
+913,shinedown,the crow & the butterfly,1,912,0.47831877501583364,1,True
+917,philip bailey,silent night,0,916,0.03768882228882228,0,True
+918,natasha bedingfield,love like this,0,917,0.4925670562772932,1,False
+934,the gone jackals,not buried deep enough,0,933,0.258529117391037,0,True
+940,raheem devaughn,customer,1,939,0.5869715142323884,1,True
+959,dj clue / p. diddy,intro,0,958,0.07448364413364411,0,True
+980,ll cool j,imagine that,1,401,0.421777477867924,1,True
+982,5th ward boyz,undercover gangstas,0,159,0.6112686735337027,1,False
+983,drama,"left, right, left",1,982,0.6991306281454993,1,True
+986,jim jones,we fly high,1,985,0.41728083384404124,1,True
+988,snow patrol,just say yes,0,563,0.6465809535365066,1,False
+991,jk,you make me feel good,0,990,0.4664706016515377,1,False
+992,mississippi fred mcdowell,you gotta move,0,991,0.05705808080808081,0,True
+1000,foals,red socks pugie,0,999,0.5551873043721095,1,False
+1002,bad azz,tha stand,0,1001,0.6496676578137899,1,False
+1003,musiq,dontchange,1,1002,0.7207965983213824,1,True
+1008,qt,my baby mama,1,1007,0.8047961794797934,1,True
+1009,michael gettel,safe passage,0,626,0.03579218004218004,0,True
+1013,behemoth,chant for eschaton 2000,0,641,0.16478613216848512,0,True
+1017,del the funky homosapien,corner story,0,1016,0.3899206652798237,1,False
+1019,michael jackson,will you be there,1,254,0.02970140415140415,0,False
+1023,mighty mighty bosstones,they came to boston,0,1022,0.2808428291312093,0,True
+1024,martina mcbride,i just call you mine,1,224,0.7139186478108372,1,True
+1026,outkast,rosa parks,1,293,0.5230982517498883,1,True
+1033,liars,cycle time,0,237,0.0506574037074037,0,True
+1039,cancer bats,sabotage,0,1038,0.10315988227458811,0,True
+1046,rome,do you like this,1,1045,0.46330607235901344,1,True
+1052,snowgoons,been fighting devilz,0,879,0.3160555430521377,1,False
+1056,tom petty and the heartbreakers,mary janes last dance,1,1055,0.581666959166572,1,True
+1058,sonia dersion,urgence,0,1057,0.5710725726766335,1,False
+1073,poncho sanchez,lip smacker,0,76,0.26904266995865705,0,True
+1077,lil wayne,fireman,1,719,0.6355018502248673,1,True
+1086,the tokens,la bamba,0,1085,0.18496248196248197,0,True
+1091,doug macleod,the sun shine down my way,0,1090,0.12803687586922877,0,True
+1094,bad azz,ghetto,0,1001,0.698191554275311,1,False
+1095,the last days of jesus,death song,0,1094,0.19170837992416945,0,True
+1102,loudon wainwright iii,how old are you,0,1101,0.15006858933979683,0,True
+1106,xscape,who can i run to,1,1105,0.44364103526425686,1,True
+1122,slim whitman,china doll,0,1121,0.4073413714596379,1,False
+1123,brooks & dunn,rock my world (little country girl),1,54,0.49454832872905535,1,True
+1125,goddess,sexual,1,1124,0.015331302031302032,0,False
+1126,miley cyrus,the climb,1,1125,0.6542780821507612,1,True
+1131,darden smith,perfect moment,0,273,0.2840145298629819,0,True
+1139,brooks & dunn,proud of the house we built,1,54,0.6417329074278039,1,True
+1148,george lopez,dogs,0,289,0.09009273210449677,0,True
+1150,garth brooks,do what you gotta do,1,1149,0.3133030492970961,1,True
+1159,the gone jackals,drop the hammer,0,933,0.34137290119581154,1,False
+1160,morgion,basking under a blacksun dawning,0,1159,0.029059163059163062,0,True
+1179,helmet,give it,0,664,0.07187939609410196,0,True
+1182,goo goo dolls,real,1,466,0.48880014963100105,1,True
+1187,40 grit,intro,0,1186,0.07835800865800867,0,True
+1191,themselves,crayon sharpener,0,480,0.3836594403315269,1,False
+1209,suzi quatro,kids of tragedy,0,1208,0.49645874086925934,1,False
+1219,papa roach,scars,1,1218,0.5394766306559313,1,True
+1221,chris standring,through the looking glass (jazz),0,1220,0.07906507871213753,0,True
+1223,shakira,poem to a horse,0,123,0.7735065956631585,1,False
+1225,snowgoons,real world,0,879,0.29133522765504205,1,False
+1230,torcuato mariano,black and blue,0,1229,0.10281585467672424,0,True
+1232,william orbit,the monkey king,0,1231,0.005586813186813187,0,True
+1235,cracker,dr. bernice,0,1234,0.09964887754200145,0,True
+1236,fugees,nappy heads,1,1235,0.6424157690821236,1,True
+1239,converge,to the lions,0,331,0.005799034299034299,0,True
+1241,trace adkins,then they do,1,1240,0.7594451117217761,1,True
+1243,slick rick,kill niggaz,0,1242,0.4558420975715963,1,False
+1252,prince,black sweat,1,859,0.507804434569538,1,True
+1254,zbigniew preisner,colin tries standing,0,1253,0.006638528138528138,0,True
+1259,sunscreem,exodus,0,790,0.13477548899665268,0,True
+1263,mighty mighty bosstones,guns and the young,0,1022,0.3570931083084875,1,False
+1269,angels & airwaves,the adventure,1,1268,0.5065808075620082,1,True
+1276,midwest product,motivator,0,1275,0.09096834125255175,0,True
+1282,marcio faraco,sarapatel humano,0,1281,0.15136806801261882,0,True
+1285,color me badd,all 4 love,1,776,0.7933699288651547,1,True
+1290,pride tiger,56 days,0,1289,0.34463276696019723,1,False
+1292,arthur tracy,red sails in the sunset,0,1291,0.023929004329004328,0,True
+1299,agnostic front,sickness,0,786,0.3063736068884676,1,False
+1301,tracy lawrence,paint me a birmingham,1,1299,0.7077655278321994,1,True
+1305,les malpolis,les amours de nathalie,0,114,0.22348629475100076,0,True
+1306,martina mcbride,heart trouble,0,224,0.4349654998414127,1,False
+1309,don & juan,are you putting me on the shelf,0,1307,0.04544354534354534,0,True
+1311,skyclad,the one piece puzzle,0,1309,0.09578046398046397,0,True
+1314,t-pain,reverse cowgirl,1,1312,0.4954112574235769,1,True
+1320,the black crowes,sting me,0,494,0.4101089468756287,1,False
+1321,valient thorr,problem solver,0,1319,0.5145300009190723,1,False
+1331,sade,slave song,0,651,0.6919139719539232,1,False
+1334,da brat,thats what im looking for,1,1332,0.6776503692467618,1,True
+1337,casiotone for the painfully alone,white jetta,0,1335,0.35865363329480976,1,False
+1339,martina mcbride,pick me up on your way down,0,224,0.6565336917942536,1,False
+1342,snowgoons,starlight,0,879,0.562219266696914,1,False
+1345,da brat,fa all yall,1,1332,0.6353924860284055,1,True
+1347,shinedown,save me,1,912,0.5906562538839151,1,True
+1351,atb,marrakech,0,1349,0.07884177115941819,0,True
+1362,tshala muana,banda yango,0,1360,0.4383527023200395,1,False
+1363,bounty killer,gun thirsty,0,328,0.4203498605892698,1,False
+1364,gloria estefan,seal our fate,1,1362,0.36390212671229105,1,True
+1367,cross country,in the midnight hour,0,633,0.026768298368298367,0,True
+1370,stereo mcs,elevate my mind,1,1368,0.16042624597624602,0,False
+1379,cracker,shake some action,0,1234,0.6024180618697913,1,False
+1384,dokken,disease,0,1382,0.09850871938519001,0,True
+1395,becoming the archetype,ex nihilo,0,1393,0.03538028083028083,0,True
+1407,pascal sangla,assis par terre,0,68,0.3234040088408157,1,False
+1411,tanto metro & devonte,everyone falls in love,1,1409,0.7150665109295535,1,True
+1414,enrique iglesias,dicen por ahi,0,1412,0.49967048506575745,1,False
+1422,phantom planet,after hours,0,1420,0.6056015551896474,1,False
+1425,youves,on probation,0,1423,0.5126524348068087,1,False
+1428,gin blossoms,found out about you,1,1426,0.31763394892001695,1,True
+1443,staind,price to play,1,1441,0.37752847640354986,1,True
+1444,ne-yo,miss independent,1,161,0.5289345048024593,1,True
+1457,metallica,hero of the day,1,87,0.20340866355866358,0,False
+1459,the prodigy,firestarter,1,1457,0.1280921315526579,0,False
+1462,ini kamoze,here comes the hotstepper,0,1460,0.6508681707164418,1,False
+1464,mark morrison,moan & groan,1,1462,0.4206229502143784,1,True
+1471,martina mcbride,anyway,1,224,0.7739769818266585,1,True
+1475,goo goo dolls,broadway,1,466,0.5175783962557166,1,True
+1479,be bop deluxe,sister seagull (live),0,1477,0.3630403562618646,1,False
+1482,rise against,swing life away,0,806,0.4123255813737876,1,False
+1497,enrique iglesias,do you know? (the ping pong song),0,1412,0.833134994334849,1,False
+1503,josh groban,mi morena (revised live version),0,910,0.3357443852289287,1,False
+1504,black debbath,ville eyolf,0,1502,0.44132754112139055,1,False
+1505,slim whitman,cattle call,0,1121,0.08267592015827312,0,True
+1507,imani coppola,legend of a cowgirl,1,1505,0.7897997246765076,1,True
+1511,eyes set to kill,liar in the glass,0,145,0.053332456432456425,0,True
+1521,tha liks,da da da da,0,625,0.418055009604766,1,False
+1524,charlotte gainsbourg,irm,0,1522,0.07696734999234998,0,True
+1526,kassav,an mouvman,0,1524,0.6296148711764906,1,False
+1528,rise against,amber changing,0,806,0.03398894830659536,0,True
+1529,busta rhymes,we got what you want,0,1527,0.34539840634667146,1,False
+1530,sade,no ordinary love,1,651,0.22805146650734887,0,False
+1537,anita baker,body & soul,1,1535,0.48464795188282744,1,True
+1541,james taylor quartet,got to give it up,0,1539,0.3330992644610294,1,False
+1549,george lopez,memories,0,289,0.1320200198494316,0,True
+1553,dimmu borgir,the chosen legacy,0,484,0.016448068598068594,0,True
+1561,dimmu borgir,the fundamental alienation,0,484,0.011012354312354311,0,True
+1566,the presets,yippiyo-ay,0,13,0.6805067681271821,1,False
+1570,josh gracin,we werent crazy,1,1568,0.6174755049221208,1,True
+1571,for squirrels,superstar,0,1569,0.050899388846447666,0,True
+1573,newfound road,brand new broken heart,0,1571,0.16373455930034878,0,True
+1588,deepest blue,is it a sin,0,1586,0.5877187424027097,1,False
+1591,delirious,god you are my god,0,1589,0.3584548517543104,1,False
+1592,504 boyz,wobble wobble,1,1590,0.5807645136651078,1,True
+1593,jaguares,el momento,0,1591,0.048688760771113705,0,True
+1595,busta rhymes,taste it,0,1527,0.47021386263154746,1,False
+1598,rupaul,snapshot,1,1596,0.19232769797769797,0,False
+1601,the antlers,the carrying arms,0,1599,0.02678036408036408,0,True
+1604,the prodigy,what evil lurks,0,1457,0.11200025972967147,0,True
+1606,elvin bishop,party til the cows come home,0,1604,0.5179802437533662,1,False
+1607,bob marley & the wailers,smile jamaica,0,1605,0.6504600913233155,1,False
+1614,loudon wainwright iii,rowena,0,1101,0.02936926406926407,0,True
+1616,michael jackson,stranger in moscow,1,254,0.5513634903189442,1,True
+1624,beyonce featuring slim thug,check on it,1,1622,0.5991832650494429,1,True
+1625,whitney houston,i have nothing,1,623,0.5656222644600811,1,True
+1628,martin sexton,caught in the rain,0,1626,0.029090764790764792,0,True
+1638,zo2,isolate,0,1636,0.08776585915665613,0,True
+1643,donnie mcclurkin,psalm 27,0,1641,0.2966420478274226,1,False
+1649,the birds,no good without you,0,1647,0.12848787341690565,0,True
+1660,remmy ongala,karola,0,1658,0.2672764307205383,0,True
+1663,nick jonas & the administration,who i am,1,277,0.661567011071185,1,True
+1664,joe mcbride,all in,0,1662,0.15731971590500998,0,True
+1665,ne-yo,closer,1,161,0.6408128376434715,1,True
+1672,arthur tracy,so do i,0,1291,0.0020909090909090908,0,True
+1684,ll cool j,6 minutes of pleasure,1,401,0.3149209731220903,1,True
+1687,astarte,risen from within,0,296,0.17127134630075808,0,True
+1688,marcus miller,3 deuces,0,1686,0.20998694246929542,0,True
+1691,nightfall,so(u)l invictus,0,1689,0.03388760683760683,0,True
+1694,nic endo,future prospects,0,1692,0.047358710570475276,0,True
+1696,ginuwine,stingy,1,313,0.6330614714507077,1,True
+1698,lee ann womack,a little past little rock,1,1696,0.7141432788987376,1,True
+1700,blue october,my never,0,176,0.1970532047349615,0,True
+1704,saving abel,addicted,1,1702,0.4862850754300578,1,True
+1711,chris cagle,laredo,1,1709,0.5263179258440468,1,True
+1718,monica,all eyez on me,1,1716,0.7615432636382381,1,True
+1735,blue rodeo,never look back,0,1733,0.5292408981299196,1,False
+1751,tanto metro & devonte,know your friends,0,1409,0.11448022924787635,0,True
+1753,martin sexton,white christmas,0,1626,0.2957117441382147,1,False
+1754,tha liks,intro,0,625,0.2916300584832726,1,False
+1756,frankee,gotta man,0,1753,0.3710642118535975,1,False
+1758,pearl jam,inside job,0,531,0.10236304430951461,0,True
+1760,mannheim steamroller,the christmas song,0,1757,0.4022060586128696,1,False
+1761,staind,so far away,1,1441,0.5551288687720466,1,True
+1768,cornell campbell,got to tell the people,0,1765,0.5178477505676565,1,False
+1769,sergio mendes,puzzle of hearts,0,1766,0.8177255929177855,1,False
+1770,zbigniew preisner,morning at the hotel,0,1253,0.03079344054638171,0,True
+1774,brooks & dunn,thats what she gets for loving me,1,54,0.8159296172223721,1,True
+1780,brooks & dunn,my heart is lost to you,1,54,0.6264441016954149,1,True
+1788,bob marley & the wailers,three little birds,0,1605,0.7300685626951812,1,False
+1789,carlos vives,si es que te vas,0,1786,0.4535722401114838,1,False
+1790,eddie turner,secret,0,906,0.17487729100964394,0,True
+1812,beenie man,imagination,0,37,0.12602268433321062,0,True
+1816,michael jackson,black or white,1,254,0.35645565251741723,1,True
+1821,color me badd,i adore mi amor,1,776,0.6992882581567135,1,True
+1822,luiz bonfa,samba de duas notas,0,1818,0.05855397935397935,0,True
+1824,agnostic front,standing on my own,0,786,0.09952744804215394,0,True
+1828,sunnyland slim,midnight jump,0,1824,0.04491116661116661,0,True
+1831,moments in grace,stratus (ep version),0,1827,0.12016658296049156,0,True
+1848,rome,i belong to you (every time i see your face),1,1045,0.6750353288664622,1,True
+1860,the jason bonham band,hold on,0,1855,0.26254512416897074,0,True
+1861,gloria estefan,youll be mine (party time),1,1362,0.635283103082138,1,True
+1870,marcus miller,outro duction,0,1686,0.1619267188693659,0,True
+1878,the-dream,falsetto,1,1873,0.7107450426574563,1,True
+1883,the jason bonham band,bing,0,1855,0.2842268399205011,0,True
+1884,martina mcbride,(i never promised you a) rose garden,1,224,0.32479354207394256,1,True
+1890,the black crowes,roll old jeremiah,0,494,0.4706856030204991,1,False
+1892,sade,morning bird,0,651,0.08659008181361126,0,True
+1897,rise against,everchanging,0,806,0.5338905489647627,1,False
+1905,blue rodeo,fools like you,0,1733,0.6346150021667809,1,False
+1911,cascada,everytime we touch,1,1906,0.34468173851432377,1,True
+1913,cristian castro,amor eterno,1,1908,0.8040751557779958,1,True
+1915,matchbox twenty,if youre gone,1,1910,0.6255067554465435,1,True
+1921,goo goo dolls,iris,1,466,0.2996787716634676,1,True
+1922,omarion featuring gucci mane,i get it in,1,1917,0.6235911783376192,1,True
+1926,tanto metro & devonte,strange things,0,1409,0.52042177956585,1,False
+1928,set your goals,summer jam,0,607,0.2362891143943776,0,True
+1933,the dreamtree project,bliss,0,1928,0.10975423223203105,0,True
+1938,da youngstas,hip hop ride,1,1933,0.6350964068734142,1,True
+1939,mary j. blige,family affair,1,107,0.5655888440544998,1,True
+1956,22-20s,hold on,0,1951,0.045468747918747915,0,True
+1959,marilyn scott,take me with you,0,1954,0.4749190580661166,1,False
+1964,firehouse,reach for the sky,1,285,0.21435527805527807,0,False
+1975,black debbath,where to piss and shit in oslo,0,1502,0.4682632918078733,1,False
+1985,fenton robinson,somebody loan me a dime,0,1980,0.19101886968615941,0,True
+1992,naughty by nature,o.p.p.,1,801,0.6618521781706844,1,True
+1995,jude taylor & his burning flames,the thrill is gone,0,1989,0.47713242565505715,1,False
+1996,pearl jam,given to fly,1,531,0.09625147728088905,0,False
+1997,martina mcbride,where would you be,1,224,0.6288948039083548,1,True
+1998,casiotone for the painfully alone,dying batteries,0,1335,0.0493905538905539,0,True
+2018,flora purim,above the rainbow,0,148,0.1698044122544122,0,True
+2019,dashboard confessional,dont wait,1,2013,0.421788698719581,1,True
+2026,zombina & the skeletones,the waiting,0,2020,0.01973917135496083,0,True
+2033,michael jackson,who is it,1,254,0.7000105988016091,1,True
+2034,gus viseur,fausse monnaie,0,2028,0.09010392940392942,0,True
+2035,the beatles,real love,1,2029,0.33814341134945386,1,True
+2038,the exciters,reaching for the best,0,2032,0.5555408434989942,1,False
+2039,taking dawn,black diamond,0,2033,0.2849035711788651,0,True
+2045,the race,raising children,0,2039,0.43863725717207264,1,False
+2051,corina,whispers,1,2045,0.43527764902285526,1,True
+2055,william orbit,deus ex machina,0,1231,0.0,0,True
+2057,phantom planet,the meantime,0,1420,0.1984477573853736,0,True
+2060,brooks & dunn,play something country,1,54,0.6005296686218934,1,True
+2065,little milton,walking the back streets and crying,0,2059,0.23666746092613214,0,True
+2069,from autumn to ashes,iv,0,2063,0.01181197691197691,0,True
+2070,astarte,oblivious darkness,0,296,0.023849206349206353,0,True
+2074,bowling for soup,girl all the bad guys want,1,2067,0.5915267448566405,1,True
+2084,blue october,hate me,1,176,0.6093834612728772,1,True
+2087,zbigniew preisner,the court,0,1253,0.03015704948646125,0,True
+2093,coldplay,the world turned upside down,0,181,0.4237651340213644,1,False
+2099,yami bolo,healing of all nations,0,2092,0.6834023721071892,1,False
+2101,moraes moreira,banho de amor,0,2094,0.5464048455338143,1,False
+2102,ryan cabrera,on the way down,1,2095,0.6227110460321936,1,True
+2112,bullet for my valentine,4 words (to choke upon),0,2105,0.24415157353826086,0,True
+2122,bersuit vergarabat,de onda,0,799,0.6415297140736592,1,False
+2130,helmet,tic,0,664,0.07963194797606558,0,True
+2142,david cook,come back to me,1,2135,0.6269023868614705,1,True
+2153,theodore shapiro,the big stall,0,2146,0.2644295474167329,0,True
+2166,plump djs,weighed down,0,2158,0.31015033565475014,1,False
+2167,enrique iglesias,can you hear me,0,1412,0.8369185813031784,1,False
+2172,xcultures,sudanese dance,0,2164,0.3991120527265936,1,False
+2183,foo fighters,overdrive,0,222,0.243227390205254,0,True
+2187,artists stand up to cancer,just stand up!,1,2178,0.5264565971546648,1,True
+2191,phantom planet,here i am,0,1420,0.05035848318348318,0,True
+2194,billy currington,must be doin somethin right,1,2185,0.8499498762081491,1,True
+2196,helmet,everybody loves you,0,664,0.27519147933064547,0,True
+2202,william orbit,harry flowers,0,1231,0.08006646686646689,0,True
+2212,martina mcbride,how far,1,224,0.7316627209051367,1,True
+2213,brooks & dunn,aint nothing bout you,1,54,0.392342959005716,1,True
+2218,ty herndon,what mattered most,1,2209,0.8570289367349282,1,True
+2221,shakira,pienso en ti,0,123,0.018433766233766236,0,True
+2254,charlotte gainsbourg,tel que tu es,0,1522,0.05304371184371183,0,True
+2272,dashboard confessional,stolen,1,2013,0.7369765215096783,1,True
+2277,josh groban,lullaby [with ladysmith black mambazo] (album version),0,910,0.07106375846375845,0,True
+2280,the real kids,now you know,0,2271,0.3146025693169862,1,False
+2291,northern state,last night,0,2282,0.5551198661079003,1,False
+2293,the black crowes,nonfiction,0,494,0.6743959744210368,1,False
+2301,camron,what means the world to you,1,2292,0.36884670111962536,1,True
+2306,ten madison,leaving melbourne,0,591,0.024808400608400605,0,True
+2324,james horner,the stranger,0,2315,0.006033333333333333,0,True
+2326,the black crowes,good morning captain,0,494,0.2874577569528668,0,True
+2330,5th ward boyz,ghetto curse words (chopped&screwed),0,159,0.5064209852523154,1,False
+2342,martin sexton,things you do to me,0,1626,0.38213847903028025,1,False
+2347,shakira,she wolf,1,123,0.32720071914762316,1,True
+2361,anne dudley,victims of the occupation,0,2352,0.0003076923076923077,0,True
+2364,naughty by nature,ring the alarm,0,801,0.3081802962302985,1,False
+2369,jesse malin,harmony,0,628,0.46004893936687635,1,False
+2373,martin sexton,ice cream man,0,1626,0.32817105258969853,1,False
+2375,mint condition,u send me swingin,1,2366,0.8306073823598293,1,True
+2378,nightfall,death of neira,0,1689,0.12266387442966391,0,True
+2382,josh groban,mai [live],0,910,0.2939376959104382,1,False
+2386,andy & lucas,dime si me quieres,0,120,0.7191324850390689,1,False
+2394,bombay rockers,rock tha party,0,2385,0.7933936126473219,1,False
+2396,shanadoo,king kong,0,2387,0.41677258239300546,1,False
+2401,organized konfusion,hate,0,2392,0.4958931108480933,1,False
+2402,avril - remix by ana rago,the date (remix by ana rago),0,2393,0.09240966255966253,0,True
+2410,destinys child,lose my breath,1,678,0.34383461524343867,1,True
+2411,firehouse,talk of the town,0,285,0.3241760091989193,1,False
+2415,syl johnson,diamond in the rough,0,2406,0.3447937373759889,1,False
+2427,jazzy jeff & the fresh prince,im looking for the one (to be with me),1,2418,0.7267997994748953,1,True
+2428,dangelo,cruisin,1,357,0.28479106999077125,0,False
+2441,shinedown,second chance,1,912,0.47806614524299,1,True
+2455,outkast,ms. jackson,1,293,0.5705244172353319,1,True
+2459,snowgoons,platoon goons,0,879,0.4986027119332623,1,False
+2461,roger sanchez,lost,0,2452,0.23314008010881077,0,True
+2462,dwight yoakam,fast as you,1,2453,0.3438405438605026,1,True
+2465,cross country,a fall song,0,633,0.31565854134909005,1,False
+2467,curtis,superstar dog,0,2458,0.3392588519323814,1,False
+2469,bullet for my valentine,suffocating under words of sorrow (what can i do),0,2105,0.14194696741167326,0,True
+2471,tiny bradshaw,well oh well,0,2462,0.3673181524583268,1,False
+2474,kem,i cant stop loving you,1,2465,0.2003573165912175,0,False
+2475,rise against,drones,0,806,0.21923363360066145,0,True
+2480,shakira,loba,0,123,0.2570031947280055,0,True
+2485,seventh star,i versus i,0,2476,0.06020454545454545,0,True
+2487,britney spears,my prerogative,0,513,0.7382550841898743,1,False
+2490,heavy d / mcgruff,wanna be a player,0,2481,0.496221362421369,1,False
+2492,epmd,give the people,0,42,0.36796380535920437,1,False
+2496,prince,1999,1,859,0.7423637777691628,1,True
+2497,train,marry me,1,2488,0.5422386943981369,1,True
+2500,tito rodriguez,mango del monte,0,2491,0.10984744032201783,0,True
+2502,little willie john,leave my kitten alone,0,2493,0.09874595894301776,0,True
+2504,michael gettel,turning of a key,0,626,0.07348785756726932,0,True
+2505,she satellites,no-satellites,0,2496,0.09455481127060074,0,True
+2513,wolfchant,guardians of the forest,0,2504,0.1679127824531849,0,True
+2526,fast eddie,yo yo get funky,0,2516,0.4341340645527675,1,False
+2532,foo fighters,hell,0,222,0.0628743756243756,0,True
+2537,taylor hicks,takin it to the streets,1,2527,0.5792768282005617,1,True
+2545,w.a.s.p.,when the levee breaks,0,2535,0.00648095238095238,0,True
+2546,goo goo dolls,black balloon,1,466,0.41877264969292854,1,True
+2554,abysmal dawn,compulsory resurrection,0,2544,0.08473262023494216,0,True
+2555,year of desolation,l.s.m.,0,2545,0.0166996558996559,0,True
+2557,epmd,head banger,0,42,0.6600135180383403,1,False
+2558,michael gettel,memory in the snow,0,626,0.33144418370587103,1,False
+2562,stephen warbeck,birth of the falls,0,2552,0.0008,0,True
+2566,trentemoller,in progress (original mix),0,2556,0.16117694928910098,0,True
+2569,the tokens,ill always love you,0,1085,0.6307864530893945,1,False
+2578,astarte,thorns of charon (pt. 2) - emerge from hades,0,296,0.15749038184038183,0,True
+2594,luiz bonfa,santeleco,0,1818,0.058561611591023355,0,True
+2597,casiotone for the painfully alone,nashville parthenon,0,1335,0.34677307463778057,1,False
+2604,tom petty,its good to be king,1,2594,0.47214011971655767,1,True
+2611,bobby darin,(i heard that) lonesome whistle,0,2601,0.2482352972105295,0,True
+2618,outkast,wailin,0,293,0.5766008273748819,1,False
+2623,modeselektor,tetrispack,0,2613,0.0895827198944846,0,True
+2626,the escape club,call it poison,1,2616,0.41170017488922717,1,True
+2635,taya wooden,mothers rastas,0,2625,0.2538368342938676,0,True
+2636,boyz n da hood,dem boyz,1,2626,0.6324251564926349,1,True
+2641,cascada,what hurts the most,1,1906,0.3066695710434598,1,True
+2647,martina mcbride,thanks a lot,0,224,0.6890202991421522,1,False
+2649,rise against,intro/chamber the cartridge,0,806,0.0661905205905206,0,True
+2651,belphegor,the sukkubus lustrate,0,2641,0.14192927236162536,0,True
+2661,lady gaga,alejandro,1,700,0.3866215042896977,1,True
+2663,keane,is it any wonder?,1,2653,0.37011863661800753,1,True
+2666,brooks & dunn,husbands and wives,1,54,0.5645358076002472,1,True
+2669,busta rhymes,genesis,0,1527,0.4523886725875105,1,False
+2681,ricky martin,loaded,1,2671,0.5869785178186555,1,True
+2687,mary j. blige,i can love you,1,107,0.4500581546934075,1,True
+2690,onerepublic,stop and stare,1,179,0.7099343832365398,1,True
+2691,david cook,i did it for you,0,2135,0.5478410752633697,1,False
+2693,christopher wilde,starstruck,1,2683,0.6714508199979423,1,True
+2713,carlos vives,cancion de amor eterno,0,1786,0.013877633477633477,0,True
+2716,luke vibert,mate tron,0,706,0.20968405371346552,0,True
+2719,lil wayne,a milli,1,719,0.47431126955516,1,True
+2722,billy currington,thats how country boys roll,1,2185,0.8011307866016476,1,True
+2729,whitney houston,i learned from the best,1,623,0.776256868535221,1,True
+2731,monica,u shouldve known better,1,1716,0.7193735926930499,1,True
+2741,michael jackson,tabloid junkie,0,254,0.5417182228073618,1,False
+2742,bryan ferry,going down,0,304,0.10608552558552556,0,True
+2743,erja lyytinen,soul of a man,0,2733,0.12603943866590925,0,True
+2746,vangelis,el greco: movement iii,0,113,0.029959377224083105,0,True
+2748,michael jackson,you rock my world,1,254,0.6455364091960941,1,True
+2750,abysmal dawn,programmed to consume,0,2544,0.09281411366411366,0,True
+2754,40 grit,a part of me,0,1186,0.09083565878565879,0,True
+2766,gloria estefan,heavens what i feel,1,1362,0.7358961091289247,1,True
+2767,dimmu borgir,master of disharmony,0,484,0.003846642246642247,0,True
+2771,crematorium,dying under a binary star,0,2761,0.4012754084924365,1,False
+2777,fruko y sus tesos,la fruta bomba,0,2767,0.7220289228810086,1,False
+2783,agnostic front,rock star,0,786,0.25695093550053844,0,True
+2795,maxwell,ascension (dont ever wonder),1,2785,0.3132448098895896,1,True
+2797,martina mcbride,when god-fearin women get the blues,1,224,0.7723475320872362,1,True
+2798,ephraim lewis,drowning in your eyes,1,2788,0.31919540622103554,1,True
+2809,josh gracin,nothin to lose,1,1568,0.492086895272186,1,True
+2814,kyle eastwood,samba de paris,0,2804,0.07834423223834984,0,True
+2815,patsy cline,i cried all the way to the altar,0,2805,0.5416778354978355,1,False
+2828,atb,collides with beauty,0,1349,0.10246405457287806,0,True
+2832,wu-tang clan,c.r.e.a.m. (cash rules everything around me),1,2821,0.29924872023401455,1,True
+2837,yami bolo,put down your weapons,0,2092,0.4039481082397682,1,False
+2843,natasha bedingfield,pocketful of sunshine,1,917,0.8303136124325516,1,True
+2848,naughty by nature,family tree,0,801,0.5907277527007213,1,False
+2850,truckfighters,traffic,0,2839,0.02421451914098973,0,True
+2852,reba,what do you say,1,2841,0.7646591304389533,1,True
+2856,stevie ray vaughan,crossfire,0,2845,0.26962120380420956,0,True
+2864,staind,for you,1,1441,0.13761625041625042,0,False
+2871,martina mcbride,concrete angel,1,224,0.7995929786829576,1,True
+2877,hot chip,ready for the floor (radio edit),0,2866,0.7031399294158086,1,False
+2880,scott matthews,city headache,0,710,0.09649870129870128,0,True
+2886,susan boyle,wild horses,1,2875,0.02962284316990199,0,False
+2888,lionel richie,just for you,1,240,0.7180935368218386,1,True
+2897,coo coo cal,my projects,1,2886,0.40261089928303534,1,True
+2902,francis dunnery,too much saturn,0,777,0.46015348459845884,1,False
+2913,modeselektor,we do it too,0,2613,0.20305832272302873,0,True
+2915,black box,strike it up,1,2904,0.7865761210262253,1,True
+2916,metallica,nothing else matters,1,87,0.6774623804536942,1,True
+2917,britney spears,shattered glass,1,513,0.7926520633606853,1,True
+2929,workhorse,serus,0,2918,0.08725676317146905,0,True
+2931,jesse malin,almost grown,0,628,0.6879761840095197,1,False
+2932,ashanti,foolish,1,2921,0.5658005128844705,1,True
+2936,ty herndon,steam,1,2209,0.8229743855726488,1,True
+2939,candyman,nightgown,1,2928,0.7366391887169462,1,True
+2940,outkast,"so fresh, so clean",1,293,0.4242292570489102,1,True
+2948,arthur tracy,a sailboat in the moonlight,0,1291,0.011758430458430459,0,True
+2954,coldplay,speed of sound,1,181,0.20445457274413129,0,False
+2965,ten madison,cup horn,0,591,0.08689109545425334,0,True
+2966,staind,its been awhile,1,1441,0.4367841940505525,1,True
+2986,tom petty and the heartbreakers,"walls (from shes the one"")""",1,1055,0.6986468702951767,1,True
+2990,sir mix-a-lot,baby got back,1,2979,0.5907172984432958,1,True
+2991,new found glory,sucker,0,2980,0.24401540128258406,0,True
+2993,b2k featuring fabolous,badaboom,1,2982,0.6864925817443361,1,True
+2994,behemoth,hello space boy,0,641,0.08633857253857254,0,True
+2995,mary j. blige,ooh!,1,107,0.5179232780169042,1,True
+2998,martina mcbride,blessed,1,224,0.7243005779657938,1,True
+3006,love jones,matter of fact,0,809,0.5083817314366732,1,False
+3014,set your goals,this very moment,0,607,0.07540345959736822,0,True
+3016,mungo jerry,pushbike song,0,3004,0.46605029393264724,1,False
+3021,whitney houston & deborah cox,"same script, different cast",1,3009,0.2187887476241024,0,False
+3024,helmet,street crab,0,664,0.15680978161372147,0,True
+3037,casiotone for the painfully alone,attic room,0,1335,0.07846792749733925,0,True
+3039,fruko y sus tesos,tania,0,2767,0.27424036162941445,0,True
+3041,kassav,loko,0,1524,0.5426057830317242,1,False
+3042,train,meet virginia,1,2488,0.6007329286831345,1,True
+3044,prince and the new power generation,the morning papers,1,3032,0.4742902939344513,1,True
+3048,finger eleven,one thing,1,404,0.5900207259443548,1,True
+3058,the fray,you found me,1,3046,0.4252289008524335,1,True
+3059,dimmu borgir,broderskapets ring,0,484,0.03570714057184646,0,True
+3063,the postal service,we will become silhouettes,1,3051,0.1110323847918881,0,False
+3064,michael gettel,wind and water,0,626,0.05848667998667998,0,True
+3081,ll cool j / freeway,what you want,0,3069,0.510166144966145,1,False
+3085,debbie davies,backseat driver,0,1,0.6922643955130918,1,False
+3086,little milton,little bluebird,0,2059,0.24651354783324092,0,True
+3087,us3,cantaloop (flip fantasia),1,3075,0.6351530301491324,1,True
+3092,becoming the archetype,end of the age,0,1393,0.22725135347968153,0,True
+3095,anne dudley,still lost in the forest,0,2352,0.005028571428571428,0,True
+3098,deitrick haddon,stir the gift,0,3086,0.5947961688185134,1,False
+3104,outkast,call of da wild,0,293,0.5223242868886382,1,False
+3106,deborah allen,i will always love you,0,3094,0.4652487734487734,1,False
+3107,maxwell,pretty wings,1,2785,0.6050728798804613,1,True
+3108,miley cyrus,see you again,1,1125,0.5600734146264066,1,True
+3110,naughty by nature,written on ya kitten,1,801,0.5596107665842753,1,True
+3112,cause and effect,another minute,1,3100,0.3895758611099349,1,True
+3116,minnie riperton,les fleurs,0,3104,0.14170342326260885,0,True
+3118,tanto metro & devonte,give it to her,1,1409,0.5111597747356894,1,True
+3123,zombina & the skeletones,i was a human bomb for the fbi,0,2020,0.06886580413051,0,True
+3125,ms. dynamite / kymani marley,seed will grow,0,3113,0.49824533809021004,1,False
+3132,intex systems,vapour fragments,0,3120,0.0579704370792606,0,True
+3137,garth brooks,more than a memory,1,1149,0.6209300649413925,1,True
+3153,brooke valentine,american girl,0,3141,0.6976105745033956,1,False
+3157,mint condition,call me,0,2366,0.32382138572996183,1,False
+3158,vitamin c,graduation (friends forever),1,501,0.1374355422773985,0,False
+3161,reba,wrong night,1,2841,0.3588649288766695,1,True
+3162,zo2,comin home,0,1636,0.3111818491173145,1,False
+3163,ginuwine,differences,1,313,0.6144472373613515,1,True
+3164,ginuwine,in those jeans,1,313,0.6340979236780848,1,True
+3166,w.a.s.p.,phantoms in the mirror,0,2535,0.10627121913174543,0,True
+3172,behemoth,malice,0,641,0.0011636363636363637,0,True
+3173,eddie turner,rise,0,906,0.12402888901604073,0,True
+3182,hatiras,lost in space,0,3170,0.3284886251003897,1,False
+3192,dragonforce,through the fire and flames,1,3180,0.13765376845376845,0,False
+3195,martin denny,manila,0,3183,0.13189379111936653,0,True
+3199,beres hammond,call on the father,0,3187,0.37225253135011493,1,False
+3206,laissez faire,in paradise,1,3194,0.44994844233887316,1,True
+3214,metallica,sad but true,1,87,0.47233374083105084,1,True
+3218,cut copy,unforgettable season,0,3206,0.03622307692307692,0,True
+3222,workhorse,flight of the elephant,0,2918,0.09932776977064901,0,True
+3223,mastodon,megalodon,0,46,0.012388766788766787,0,True
+3225,beenie man,politrix,0,37,0.5859290780926246,1,False
+3241,ricky martin,shake your bon-bon,1,2671,0.6184281486056867,1,True
+3251,shapeshifters,chime,0,3238,0.12161948464332364,0,True
+3253,tommy lee,good times,1,3240,0.5840911995247268,1,True
+3256,gregory isaacs,out deh,0,3243,0.11049768597415656,0,True
+3265,shakira,que vuelvas,0,123,0.702456033906504,1,False
+3278,maria bamford,vennette,0,3265,0.10365211781682367,0,True
+3279,bersuit vergarabat,sencillamente,0,799,0.5668001343767849,1,False
+3281,joy enriquez,between you and me,0,3268,0.7278699019073442,1,False
+3286,behemoth,he who breeds pestilence,0,641,0.021502442002442,0,True
+3287,workhorse,my friend the blind,0,2918,0.14807727161727158,0,True
+3289,blackstreet,before i let you go,1,371,0.7674231155291836,1,True
+3293,at the gates,city of screaming statues,0,3280,0.047113469863469856,0,True
+3298,go west,faithful,1,3285,0.6435566479017943,1,True
+3301,the last days of jesus,life in line,0,1094,0.342392447299341,1,False
+3303,the presets,are you the one?,0,13,0.6531530242480666,1,False
+3308,snow patrol,wow,0,563,0.2276241167074815,0,True
+3311,zbigniew preisner,leaving the docks,0,1253,0.008999185128596893,0,True
+3314,three 6 mafia featuring kalenna,shake my,1,3301,0.8343142022156724,1,True
+3316,fruko y sus tesos,a la memoria del muerto,0,2767,0.4918702099790046,1,False
+3323,benga,zero m2,0,3310,0.2043631035063261,0,True
+3324,born jamericans,send my love/send one your love,1,3311,0.7168025816535551,1,True
+3329,black debbath,the four big ones (essential authors and works),0,1502,0.2691669362698578,0,True
+3353,agnostic front,undertow,0,786,0.07405308025308027,0,True
+3358,francis dunnery,the possibilities of loving you,0,777,0.04278132423132422,0,True
+3365,blue rodeo,million miles,0,1733,0.4671948314018285,1,False
+3366,martina mcbride,this ones for the girls,1,224,0.6699060520116479,1,True
+3373,jeff foxworthy with alan jackson,redneck games,1,3360,0.7111298768490367,1,True
+3374,robert palmer,youre amazing,1,3361,0.3037177769048633,1,True
+3377,cancer bats,dead wrong,0,1038,0.2148387213233962,0,True
+3378,del the funky homosapien,why you wanna get funky...,0,1016,0.4819202151274014,1,False
+3380,glee cast featuring kristin chenoweth,home,1,3367,0.676533793004381,1,True
+3386,jesse malin,walk on the wild side,0,628,0.26310051734941375,0,True
+3391,enrique iglesias,si juras regresar,0,1412,0.6381514575475716,1,False
+3394,foo fighters,best of you,1,222,0.22890084540021133,0,False
+3395,peggy lee,mr. wonderful,0,3382,0.042026196026196026,0,True
+3401,agnostic front,come alive,0,786,0.06422279419926477,0,True
+3408,lightnin slim,my babe,0,3395,0.26980275382615243,0,True
+3411,liars,a visit from drum,0,237,0.211505241421805,0,True
+3416,dj company,rhythm of love,1,3403,0.19255048840048847,0,False
+3426,ital tek,tokyo freeze,0,3413,0.06799114139702371,0,True
+3446,miley cyrus,breakout,1,1125,0.5218288210160541,1,True
+3449,agnostic front,separate ways,0,786,0.19579674084085855,0,True
+3452,chantay savage,i will survive,1,3439,0.34491069329476454,1,True
+3454,the panic channel,awake,0,3441,0.19739225014751335,0,True
+3458,lee ann womack,why they call it falling,1,1696,0.6107757604574962,1,True
+3481,steve porter,mindless,0,3468,0.20956686809922118,0,True
+3487,poncho sanchez,co co my my,0,76,0.08228926628926626,0,True
+3499,hot chip,hold on,0,2866,0.1562862655748105,0,True
+3506,lee ann womack,last call,1,1696,0.27799794010598977,0,False
+3510,rodney atkins,farmers daughter,1,3497,0.8203803377898575,1,True
+3514,rise against,state of the union,0,806,0.2402039375657025,0,True
+3520,r.l. burnside,glory be,0,269,0.24833553047004017,0,True
+3522,buckcherry,crazy bitch,1,3509,0.47846961202150834,1,True
+3523,poncho sanchez,going back to new orleans,0,76,0.1820012052781659,0,True
+3530,melvins,nude with boots,0,3517,0.18439452501402967,0,True
+3531,lambda,hold on tight,0,3518,0.12562660607366488,0,True
+3533,martin page,keeper of the flame,1,3520,0.3620524665834752,1,True
+3537,rupaul,supermodel (you better work),1,1596,0.567410751229952,1,True
+3539,andy & lucas,amores cobardes,0,120,0.712107666066027,1,False
+3542,mary j. blige,work that,1,107,0.6968980983315795,1,True
+3543,bounty killer,cellular phone,0,328,0.27197469175543204,0,True
+3544,little milton,lookin for my baby,0,2059,0.14278733488733492,0,True
+3547,baha men,who let the dogs out,1,3534,0.743786441659235,1,True
+3549,monica,so gone,1,1716,0.5120960215010701,1,True
+3550,foo fighters,next year,0,222,0.20215450952556227,0,True
+3551,george lopez,vibrators,0,289,0.09330629958277017,0,True
+3554,goo goo dolls,name,1,466,0.49326059256717186,1,True
+3560,foo fighters,all my life,1,222,0.5200432146598734,1,True
+3561,pearl jam,world wide suicide,1,531,0.3025117109971512,1,True
+3563,hot chip,no,0,2866,0.42279898785274433,1,False
+3572,trace adkins,songs about me,1,1240,0.8133330642139481,1,True
+3583,year of desolation,the legend of yellow boobie,0,2545,0.025421489621489622,0,True
+3589,the black crowes,ballad in urgency,0,494,0.22021485169457303,0,True
+3595,staind,believe,1,1441,0.5718939672118769,1,True
+3598,the sonics,near my soul,0,3585,0.38671162472802395,1,False
+3613,dimmu borgir,puritania,0,484,0.03222697302697303,0,True
+3615,coldplay,speed of sound (live),0,181,0.3739110177404296,1,False
+3621,foo fighters,razor,0,222,0.035563262880909934,0,True
+3625,themselves,you devil you,0,480,0.11382039719303144,0,True
+3631,shinedown,if you only knew,1,912,0.23390459010634604,0,False
+3633,gyptian,hold you (hold yuh),1,3619,0.6516663040284254,1,True
+3636,nastyboy klick,lost in love,1,3622,0.6112806160221957,1,True
+3650,trace adkins,ladies love country boys,1,1240,0.4909265883445597,1,True
+3651,portrait,here we go again!,1,3637,0.7584626596225208,1,True
+3653,loudon wainwright iii,human cannonball,0,1101,0.10935100781571369,0,True
+3656,billy currington,"why, why, why",1,2185,0.5657095418725805,1,True
+3663,natasha bedingfield,these words,1,917,0.6128971951565877,1,True
+3666,trace adkins,the rest of mine,1,1240,0.7583078893884142,1,True
+3670,no address,pretty girl (amended version),0,3655,0.45163919881305653,1,False
+3671,dwight yoakam,crazy little thing called love,1,2453,0.545236807947712,1,True
+3679,blackstreet,joy,1,371,0.7122872295510366,1,True
+3687,nick jonas,introducing me,1,3670,0.454560699374197,1,True
+3688,theodore shapiro,gun pull,0,2146,0.0013333333333333333,0,True
+3689,the wallflowers,sleepwalker,1,3672,0.7054745416155397,1,True
+3693,britney spears,radar,1,513,0.597707998844593,1,True
+3694,kid cudi,marijuana,1,893,0.1268108368755428,0,False
+3716,da brat,sittin on top of the world,1,1332,0.5360193147461725,1,True
+3717,martina mcbride,make me believe,0,224,0.7597126778336701,1,False
+3733,creed,my sacrifice,1,3715,0.18891312162210003,0,False
+3739,sunscreem,secrets,0,790,0.7175689555760216,1,False
+3745,imx,stay the night,1,3727,0.7804269761864547,1,True
+3749,twista,get it wet,1,3731,0.6185457396316864,1,True
+3750,lil wayne,on fire,1,719,0.4846259395839128,1,True
+3755,foo fighters,x-static,0,222,0.009787345987345987,0,True
+3758,michael jackson,heaven can wait,0,254,0.6333953599484188,1,False
+3759,the shins,phantom limb,1,3741,0.6006579109681099,1,True
+3764,snowgoons,michael nobody aka poetic death,0,879,0.4611162346624723,1,False
+3765,case,happily ever after,1,3747,0.7705710145277685,1,True
+3767,james horner,rescue and breakout,0,2315,0.016900721500721503,0,True
+3769,tanto metro & devonte,honey i sugar pie,0,1409,0.6383682002740901,1,False
+3772,snow patrol,new sensation,0,563,0.25605205282569093,0,True
+3788,erkki junkkarinen,nuoruusmuistoja,0,3770,0.09790171462524402,0,True
+3794,r.l. burnside,over the hill,0,269,0.10812599622599627,0,True
+3795,hatiras,final flash,0,3170,0.13526249077719668,0,True
+3797,converge,locust reign (live in california),0,331,0.019375052725052726,0,True
+3809,joe mcbride,one eyed jack,0,1662,0.15725460976931563,0,True
+3819,ryan cabrera,shine on,1,2095,0.2957370839711176,1,True
+3824,destinys child,say my name,1,678,0.7355670138414652,1,True
+3827,from autumn to ashes,sensory deprivation adventure,0,2063,0.13708374344953292,0,True
+3832,the commitments,try a little tenderness,1,3812,0.24658694670170758,0,False
+3833,matchbox twenty,bright lights,1,1910,0.4360254242489538,1,True
+3836,michael gettel,the journey north,0,626,0.10084449602684897,0,True
+3837,workhorse,high horse,0,2918,0.09452253955195129,0,True
+3838,epmd,mr. bozack,0,42,0.371557491584368,1,False
+3841,william orbit,cavalleria rusticana,0,1231,0.0031666666666666666,0,True
+3842,collective soul,december,1,3822,0.5568633461442216,1,True
+3851,slum village,cb4,0,3831,0.39687775815976223,1,False
+3853,clubland,hold on (tighter to love),1,3833,0.353450838554012,1,True
+3855,nelson,only time will tell,1,3835,0.6084929286288058,1,True
+3871,ricky martin,tal vez,1,2671,0.6330326436820847,1,True
+3874,the black crowes,girl from a pawnshop,0,494,0.2730960800676606,0,True
+3888,ini kamoze,gangsta roll,0,1460,0.528494737517182,1,False
+3890,the fabulous thunderbirds,when i get home,0,3869,0.22625042567699974,0,True
+3891,tara kemp,hold you tight,1,3870,0.5776913508966611,1,True
+3895,tha liks,yo mouth (skit),0,625,0.15971141636141634,0,True
+3897,the wreckers,damn that radio [live],0,3876,0.4457672702258176,1,False
+3907,cut copy,future,0,3206,0.3064571696019389,1,False
+3915,goo goo dolls,slide,1,466,0.5648152310172372,1,True
+3919,sade,all about our love,0,651,0.42385503792385365,1,False
+3920,the fray,she is,0,3046,0.5326622112593258,1,False
+3921,xcultures,smile,0,2164,0.06429521328344856,0,True
+3924,goo goo dolls,better days,1,466,0.49603011317807333,1,True
+3927,trace adkins,this aint no love song,1,1240,0.6710252072639517,1,True
+3934,flex,te quiero,1,3913,0.6045468307500912,1,True
+3935,the antlers,stairs to the attic,0,1599,0.3713511474032276,1,False
+3941,ultraviolence,murder academy,0,3920,0.20149506375976975,0,True
+3953,johnny copeland,jambalaya (on the bayou),0,3932,0.519204667792092,1,False
+3957,"harry connick, jr.",(i could only) whisper your name,1,3936,0.416336078442879,1,True
+3961,hatiras,the anthem,0,3170,0.19756588347640977,0,True
+3963,bikini machine,the race,0,3942,0.04016089237559826,0,True
+3970,"weird al"" yankovic""",smells like nirvana,1,3949,0.4462078366204402,1,True
+3974,bizzy bone presents,intro,0,3953,0.06539093503675546,0,True
+3977,thrice,red sky,0,699,0.20315887385002177,0,True
+3985,koffee brown,after party,1,3964,0.7966448054867213,1,True
+3994,belle & sebastian,stay loose,0,3973,0.7597573335134257,1,False
+3999,suzi quatro,born to run,0,1208,0.714076745281042,1,False
+4000,blind boy fuller,big leg woman gets my pay,0,587,0.05152122322122322,0,True
+4002,brooks & dunn,i cant get over you,1,54,0.6658178536576063,1,True
+4025,terri clark,i wanna do it all,1,4004,0.6697172664608466,1,True
+4028,the fray,vienna,0,3046,0.49449357978202274,1,False
+4034,tami davis,how do i say im sorry,1,4013,0.7769797945126914,1,True
+4036,bad brains,at the atlantis,0,4015,0.035693473193473185,0,True
+4039,metallica,the end of the line,0,87,0.06795295581611371,0,True
