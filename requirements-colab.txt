@@ -1,0 +1,7 @@
+# Needed only when running the Colab demo in a local Jupyter environment.
+# The Colab notebook installs missing packages itself and uses its runtime versions.
+numpy
+pandas
+scikit-learn
+matplotlib
+ipywidgets>=8,<9

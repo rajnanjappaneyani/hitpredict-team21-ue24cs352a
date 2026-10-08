@@ -10,7 +10,16 @@ UE24CS352A Machine Learning mini-project, E Section, October 2026.
 
 This project independently implements a machine-learning pipeline using the original Stanford HitPredict dataset. It predicts the dataset's historical Billboard hit label from nine Spotify audio features. Source data, trained model, actual experiment outputs, an executed notebook, an offline Streamlit demo, a two-page PDF, and presentation slides are included.
 
-## Start the demo
+## Run the demo in Google Colab
+
+1. Download `notebooks/HitPredict_Colab_Demo.ipynb` from this repository.
+2. Open [Google Colab](https://colab.research.google.com/), sign in, and choose **Upload notebook** to open that file.
+3. Select **Runtime > Run all**. A standard CPU runtime is sufficient.
+4. In **Section 5: Interactive track demo**, choose a song and click **Predict hit label**. Edit the nine feature values to try a custom track. Section 6 supports batch predictions and CSV download.
+
+The notebook includes the cleaned dataset and saved split assignments, so no repository checkout, GitHub token, Drive mount, or separate data upload is needed. It fits the selected random forest on the original training split and evaluates it on the original test split. It keeps the validation-selected cutoff of 0.29 and displays freshly calculated metrics alongside the original experiment. Library versions may cause small numerical differences. Section 7 provides an editable-code prediction if widgets are unavailable.
+
+## Run the local demo
 
 Use **Python 3.12**. Open a terminal inside this folder.
 
@@ -108,11 +117,15 @@ The row-split diagnostic shares 392 artists across its training/test sets and sc
 | `src/predict.py` | Shared scoring logic and command-line batch tool |
 | `src/plots.py` | Charts from measured results |
 | `src/fetch_data.py` | Optional checksum-verified source recovery |
+| `src/colab_demo.py` | Standalone model fitting, evaluation and notebook controls |
+| `scripts/build_colab_demo.py` | Rebuilds the self-contained Colab notebook from project data |
 | `data/raw/` | Original CSVs and checksums |
 | `data/processed/tracks.csv` | Cleaned records with split assignments |
 | `models/hitpredict.joblib` | Trusted trained pipeline and metadata |
 | `results/` | Metrics, CV results, predictions, errors and figures |
 | `notebooks/HitPredict_Analysis.ipynb` | Executed explanatory analysis |
+| `notebooks/HitPredict_Colab_Demo.ipynb` | Self-contained interactive Google Colab demo |
+| `requirements-colab.txt` | Minimal dependencies for running the Colab demo in local Jupyter |
 | `deliverables/HitPredict_Report.pdf` | Required two-page write-up |
 | `deliverables/HitPredict_Presentation.pptx` | Editable presentation with speaker notes |
 | `docs/DATA_CARD.md` | Source attribution and label limitations |
